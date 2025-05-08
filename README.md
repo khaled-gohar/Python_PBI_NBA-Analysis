@@ -3,7 +3,7 @@ NBA analysis project using Python and Power BI
 
 <h3>Tools Used</h3>
 
-- Data - ( 12 CSV files for each month )
+- Data - web scraping
   
 - Data Cleaning & Analysis - Python - Visual Studio Code - Jupyter notebook
 
